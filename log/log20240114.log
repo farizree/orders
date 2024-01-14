@@ -1,0 +1,6 @@
+time="14-01-2024 15:37:16" level=info msg="Service order is ready to handle requests at st :2010"
+time="14-01-2024 15:39:17" level=info msg="HTTP Request Method" method=GET url="/orders/v1/wallets/userid?user_id=2"
+time="14-01-2024 15:39:20" level=info msg="HTTP Request Method" method=GET url="/orders/v1/wallets/userid?user_id=2"
+time="14-01-2024 15:39:23" level=info msg="HTTP Request Method" method=GET url="/orders/v1/wallets/userid?user_id=2"
+time="14-01-2024 15:54:53" level=info msg="Service orders is shutting down..."
+time="14-01-2024 15:54:53" level=info msg="Service orders stopped"
